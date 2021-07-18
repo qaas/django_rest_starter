@@ -1,0 +1,5 @@
+# development requirements
+-r requirements_base.txt
+
+pytest==6.2.4
+py-spy==0.3.7
