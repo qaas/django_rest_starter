@@ -1,1 +1,6 @@
+# production deployment requirements 
 
+-r requirements_base.txt
+
+# specify your application server
+uwsgi==2.0.19.1

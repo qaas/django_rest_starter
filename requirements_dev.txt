@@ -1,5 +1,9 @@
 # development requirements
 -r requirements_base.txt
 
+# opinionated best testing framework
 pytest==6.2.4
+
+# code profiler -> runs side by side with the application
+# module documentation at: https://pypi.org/project/py-spy/
 py-spy==0.3.7

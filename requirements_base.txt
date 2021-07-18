@@ -1,0 +1,5 @@
+# base requirements for any django app
+
+django==3.2.5
+djangorestframework==3.12.4
+requests==2.26.0
